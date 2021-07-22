@@ -7,7 +7,7 @@ Find the project requirements here: [Link shortener website](https://www.codemen
 Built with React , Tailwindcss
 
 ## Screenshots and demo
-https://dreamy-mayer-7b9cbf.netlify.app/
+https://shorty-link.netlify.app
 
 ## UI Instpiration 
   https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G
